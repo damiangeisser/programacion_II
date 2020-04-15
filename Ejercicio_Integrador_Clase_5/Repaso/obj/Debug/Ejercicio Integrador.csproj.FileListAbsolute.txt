@@ -1,0 +1,6 @@
+D:\Estudio\Programación\Programación_II\Soluciones_UTN\Ejercicio_Integrador_Clase_5\Repaso\bin\Debug\Ejercicio_Integrador.exe.config
+D:\Estudio\Programación\Programación_II\Soluciones_UTN\Ejercicio_Integrador_Clase_5\Repaso\bin\Debug\Ejercicio_Integrador.exe
+D:\Estudio\Programación\Programación_II\Soluciones_UTN\Ejercicio_Integrador_Clase_5\Repaso\bin\Debug\Ejercicio_Integrador.pdb
+D:\Estudio\Programación\Programación_II\Soluciones_UTN\Ejercicio_Integrador_Clase_5\Repaso\obj\Debug\Ejercicio Integrador.csprojAssemblyReference.cache
+D:\Estudio\Programación\Programación_II\Soluciones_UTN\Ejercicio_Integrador_Clase_5\Repaso\obj\Debug\Ejercicio_Integrador.exe
+D:\Estudio\Programación\Programación_II\Soluciones_UTN\Ejercicio_Integrador_Clase_5\Repaso\obj\Debug\Ejercicio_Integrador.pdb

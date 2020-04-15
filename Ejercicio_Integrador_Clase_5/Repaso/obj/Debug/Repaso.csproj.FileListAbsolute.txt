@@ -1,0 +1,6 @@
+D:\Estudio\Programación\Programación II\Soluciones UTN\Repaso\Repaso\bin\Debug\Repaso.exe.config
+D:\Estudio\Programación\Programación II\Soluciones UTN\Repaso\Repaso\bin\Debug\Repaso.exe
+D:\Estudio\Programación\Programación II\Soluciones UTN\Repaso\Repaso\bin\Debug\Repaso.pdb
+D:\Estudio\Programación\Programación II\Soluciones UTN\Repaso\Repaso\obj\Debug\Repaso.csprojAssemblyReference.cache
+D:\Estudio\Programación\Programación II\Soluciones UTN\Repaso\Repaso\obj\Debug\Repaso.exe
+D:\Estudio\Programación\Programación II\Soluciones UTN\Repaso\Repaso\obj\Debug\Repaso.pdb
